@@ -18,8 +18,7 @@ Formo ingenieros en system design, arquitectura e IA con criterio. Lideré organ
 
 | clave | valor |
 |:--|:--|
-| `rol` | Software Technical Leader de Agents IA |
-| `proximamente` | 👀 Technical Leader de Agents IA |
+| `proximamente` | 👀 Software Technical Leader de Agents IA |
 | `construyendo` | 🔭 Paso 1 \| Radar de vacantes |
 | `escribiendo` | ✍️ En [Medium](https://medium.com/@gastonmaron) sobre fundamentals, entrevistas técnicas y system design, y en [X](https://x.com/gmaronok) |
 | `enseñando` | 🧑‍🏫 Software Engineering + Coding Agents · IA + Productividad (UNLP +10 años, EducaciónIT) |
