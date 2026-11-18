@@ -1,37 +1,11 @@
-<p align="center">
-  <samp>
-    <a href="https://x.com/gmaronok">x</a> .
-    <a href="https://www.linkedin.com/in/gastonmaron/">linkedin</a> .
-    <a href="https://medium.com/@gastonmaron">medium</a> .
-    <a href="https://github.com/tpii">tpii</a> .
-    <a href="https://cafecito.app/gmaron">cafecito</a>
-  </samp>
-</p>
+<img src="assets/hero.svg" width="100%" alt="Una terminal de gmaron: un agente responde quién es Gastón Marón (Technical Leader de Agents IA, docente en UNLP y EducaciónIT) mientras dibuja un diagrama de system design capa por capa: cliente, balanceador, API, cache, base de datos y réplica.">
 
-# Gastón Marón
+<p align="center"><a href="https://x.com/gmaronok">x</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/gastonmaron/">linkedin</a> &nbsp;·&nbsp; <a href="https://medium.com/@gastonmaron">medium</a> &nbsp;·&nbsp; <a href="https://github.com/tpii">tpii</a> &nbsp;·&nbsp; <a href="https://cafecito.app/gmaron">cafecito</a></p>
 
-**Technical Leader de Agents IA · Docente en UNLP y EducaciónIT**
+<p align="center"><a href="https://github.com/gmaron/message-summarize"><img src="assets/tile-message-summarize.svg" width="423" alt="message-summarize: resumí tus mensajes sin leer con tu LLM."></a><a href="https://github.com/tpii"><img src="assets/tile-tpii.svg" width="423" alt="Docente tpii, Ingeniería en Computación, UNLP: más de 300 ingenieros pasaron por mis clases."></a></p>
 
-Formo ingenieros en system design, arquitectura e IA con criterio. Lideré organizaciones de hasta 120+ ingenieros en BBVA, creé la práctica de DevOps que habilitó a 600+ desarrolladores y fui CTO de MaxScholar.
+**Ahora:** Software Technical Leader de Agents IA · construyendo Paso 1, un radar de vacantes.
+**Escribo** en [Medium](https://medium.com/@gastonmaron) y [X](https://x.com/gmaronok) sobre fundamentals, entrevistas técnicas y system design.
+**Enseño** Ingeniería de Software con Coding Agents (EducaciónIT) y Taller de Proyecto 2 (UNLP, +10 años).
 
-### `$ cat /etc/gmaron/status`
-
-| clave | valor |
-|:--|:--|
-| `proximamente` | 👀 Software Technical Leader de Agents IA |
-| `construyendo` | 🔭 Paso 1 \| Radar de vacantes |
-| `escribiendo` | ✍️ En [Medium](https://medium.com/@gastonmaron) sobre fundamentals, entrevistas técnicas y system design, y en [X](https://x.com/gmaronok) |
-| `enseñando` | 🧑‍🏫 Software Engineering + Coding Agents · IA + Productividad (UNLP +10 años, EducaciónIT) |
-
-### `$ ls ~/proyectos`
-
-| repo | descripción |
-|:--|:--|
-| [`mcp-sqlite-server`](https://github.com/gmaron/mcp-sqlite-server) | Servidor MCP para SQLite (FastMCP, Clean Architecture, MongoDB) |
-| [`message-summarize`](https://github.com/gmaron/message-summarize) | Resume tus mensajes sin leer con el LLM que elijas |
-| [`educacion-it`](https://github.com/gmaron/educacion-it) | Práctica del curso de Ingeniería de Software con IA y Coding Agents |
-| [`tpii`](https://github.com/tpii) | Trabajos de mis alumnos (organización Taller de Proyecto 2) |
-
-### `$ sudo donate --coffee`
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/gmaron)
+<p align="center"><a href="https://cafecito.app/gmaron"><img src="https://cdn.cafecito.app/imgs/buttons/button_1.svg" alt="Invitame un café en cafecito.app"></a></p>
